@@ -1,0 +1,13 @@
+{
+  "timeZone": "Africa/Cairo",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "AceAlBastoniAPI",
+      "libraryId": "1WO-yRJROb3Bzkr1GQu5k-CosbLAV6kKWImtNpsefKa8-l3Sxdcyb7eAL",
+      "version": "1",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
