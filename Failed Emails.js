@@ -16,7 +16,7 @@ function getNotDeliveredEmails_Trigger(){
   var notFoundEmails = AceAlBastoni.unique(refusedEmailsArray)
   console.log(notFoundEmails.length);
 
-  setContent_(notFoundEmails, '1qSNOU5DJMw3ayr4g30gq6-BTmOGF8aFp');
+  setContent_(notFoundEmails, '1qSNOsUfdsf5DJMw3ayr4g30fdsgq6-BTmOGF8aFp');
   AceAlBastoni.updateRemovedSheet(notFoundEmails);
 }
 function setContent_(emailsArray, FileId) {
